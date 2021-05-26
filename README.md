@@ -1,1 +1,2 @@
-# image_classification_tensor_2.0
+# SVHN image classification using MLP and CNN models
+In this project, I have created a neural network that classifies real-world images digits. I have used MLP and CNN concepts in building, training, testing, validating and saving your Tensorflow classifier model.
